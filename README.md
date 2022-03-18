@@ -1,7 +1,7 @@
 # Academic Projects for COMP60019 Robotics
 Third-year Undergraduate Course at Department of Computing, Imperial College London
 
-Instructed by Professor Andrew Davison, Professor of Robot Vision
+Instructed by Andrew Davison, Professor of Robot Vision
 
 This course uses the powerful [CoppeliaSim](https://coppeliarobotics.com/) (Edu version) simulator for design & analysis of robots. Scripting was done in Lua, a high-level programming language, with great API support by CoppeliaSim.
 

@@ -26,16 +26,25 @@ Steps in MCL:
 
 In this application, we generate 100 particles to represent the robot position with additive Gaussian noise. These particles are then probabilistically filtered to generate a single instance with the highest likelihood for the current position of the robot.
 
+Scene file: [WaypointNavigation_scene.ttt](WaypointNavigation_scene.ttt)
+Robot script: [WaypointNavigation.lua](WaypointNavigation.lua)
+
 https://user-images.githubusercontent.com/59057196/159030503-a514ef2c-891a-4959-a4e4-a3fde26f19c3.mp4
 
 ## Task: Random Bounce Control
 
 Desired outcome: The robot should continue moving while avoiding all obstacles in its path. Feedback control system to modify speed & direction of robot based on proximity to an ostacle.
 
+Scene file: [RandomBounce_scene.ttt](RandomBounce_scene.ttt)
+Robot script: [RandomBounce.lua](RandomBounce.lua)
+
 https://user-images.githubusercontent.com/59057196/159030484-2751428a-3be2-4afb-bd81-cf5db3d21379.mp4
 
 ## Task: Wall Following
 
 Desired outcome: The robot should continue moving along a wall while maintaining a specified distance from the wall. Feedback control system to perpetually perform odometry for robot motion to "follow" the path of the wall.
+
+Scene file: [WallFollowing_scene.ttt](WallFollowing_scene.ttt)
+Robot script: [WallFollowing.lua](WallFollowing.lua)
 
 https://user-images.githubusercontent.com/59057196/159030496-2e80e00d-3e70-4cff-8cbd-445e01b16d98.mp4

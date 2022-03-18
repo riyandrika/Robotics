@@ -1,4 +1,4 @@
-# Academic Project for COMP60019 Robotics
+# Academic Projects for COMP60019 Robotics
 Third-year Undergraduate Course at Department of Computing, Imperial College London
 
 Instructed by Professor Andrew Davison who leads Dyson Robotics Laboratory
